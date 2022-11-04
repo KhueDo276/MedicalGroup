@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MedicalGroup/static/css/main.3248389e.css",
+    "main.js": "/MedicalGroup/static/js/main.b95ec53b.js",
+    "index.html": "/MedicalGroup/index.html",
+    "main.3248389e.css.map": "/MedicalGroup/static/css/main.3248389e.css.map",
+    "main.b95ec53b.js.map": "/MedicalGroup/static/js/main.b95ec53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3248389e.css",
+    "static/js/main.b95ec53b.js"
+  ]
+}
