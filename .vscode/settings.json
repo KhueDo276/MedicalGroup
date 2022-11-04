@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ea3190b3-ffdf-4bf8-b2c5-af54ca23b351/resourceGroups/MedicalGroup/providers/Microsoft.Web/sites/medicalgroup1",
+    "appService.deploySubpath": "."
+}
